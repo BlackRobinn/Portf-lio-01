@@ -25,6 +25,21 @@ body {
     z-index: 100;
 }
 
+.cleiton h2 {
+    color: #00abf0;
+    font-size: 30px;
+}
+
+.cleiton p {
+    color: #ffffff;
+    padding: -40px;
+}
+
+.cleiton p strong {
+    color: #00abf0;
+    font-size: 22px;
+}
+
 .logo {
     font-size: 25px;
     color: #00abf0;
@@ -157,7 +172,7 @@ body {
 
 .home-sci {
     position: absolute;
-    bottom: 250px;
+    bottom:150px;
     width: 150px;
     display: flex;
     justify-content: space-between;
@@ -212,8 +227,3 @@ body {
     height: 600px; 
     width: auto; 
 }
-
-
-
-
-
